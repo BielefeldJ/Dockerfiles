@@ -1,0 +1,3 @@
+[submodule "parsedmarc-docker"]
+	path = parsedmarc-docker
+	url = git@github.com:BielefeldJ/parsedmarc-docker.git
